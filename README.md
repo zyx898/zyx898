@@ -7,8 +7,3 @@
 - ⚡ Fun fact: My favorite game is CSGO
 - 📫 You can reach me via Discord @ lucas.zhang or via email @ enl4MTExOTAxQGdtYWlsLmNvbQ==
 
-<div>
-  <a href="https://github.com/zyx898">
-    <img src="https://github-readme-stats.vercel.app/api?username=zyx898&show_icons=true&theme=transparent"/>
-  </a>
-</div>
